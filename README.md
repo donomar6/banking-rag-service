@@ -1,1 +1,1 @@
-# banking-rag-service
+# Banking RAG Service
